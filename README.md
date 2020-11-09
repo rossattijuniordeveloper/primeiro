@@ -1,2 +1,3 @@
 # primeiro
-repositorio de teste
+repositorio de testes de Git e GitHub
+
